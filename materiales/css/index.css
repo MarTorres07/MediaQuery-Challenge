@@ -613,6 +613,8 @@ box-shadow: -1px 1px 3px 1px rgb(0, 0, 0, .2);
   
   
   footer {
+    height:100%;
+    width:100%;
     padding: 1.25rem;
     text-align: center;
     margin: 0.5rem 0 0;
@@ -709,6 +711,8 @@ box-shadow: -1px 1px 3px 1px rgb(0, 0, 0, .2);
     display:block;
     width:100%;
 }
+
+
 
 }
 
